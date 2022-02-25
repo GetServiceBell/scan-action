@@ -28,7 +28,6 @@ runs:
     - ${{ inputs.output }}
     - "--type"
     - ${{ inputs.type }}
-    - "--no-error"
 branding:
   icon: "check"
   color: "blue"
